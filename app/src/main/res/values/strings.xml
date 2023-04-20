@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">To-do</string>
+    <string name="title_label">Title</string>
+    <string name="title_hint">Enter a task</string>
+    <string name="solved_label">Solved</string>
+    <string name="unsolved_label">Unsolved</string>
+    <string name="add_task_label">Add task</string>
+    <string name="add_task_description">Add task button</string>
+    <string name="search_task_description">Search task button</string>
+    <string name="search_task_label">Search</string>
+    <string name="task_title_hint">Enter your task</string>
+    <string name="no_tasks_label">There is no tasks...</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="clear_all_tasks">Clear All Tasks</string>
+    <string name="settings">Settings</string>
+    <string name="makeSomeNotificationsPersistent">Make current notifications persistent</string>
+    <string name="makeSomeNotificationsNotPersistent">Make current notifications not persistent</string>
+    <string name="getDailyNotifications">Send daily notifications</string>
+    <string name="notGetDailyNotifications">Do not send daily notifications </string>
+    <string name="showCompleted">Show completed tasks</string>
+    <string name="hideCompleted">Hide completed tasks</string>
+    
+    <string name="currentTaskNotificationChannelName">Current Tasks</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_task">Delete Task</string>
+    <string name="clear_all_tasks">Clear All Tasks</string>
+    <string name="settings">Settings</string>
+</resources>
